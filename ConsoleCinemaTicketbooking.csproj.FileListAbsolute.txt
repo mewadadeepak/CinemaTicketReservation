@@ -1,0 +1,3 @@
+C:\Training\DotNetTraining\ConsoleCinemaTicketbooking\ConsoleCinemaTicketbooking\obj\Debug\ConsoleCinemaTicketbooking.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\ConsoleCinemaTicketbooking\ConsoleCinemaTicketbooking\obj\Debug\ConsoleCinemaTicketbooking.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\ConsoleCinemaTicketbooking\ConsoleCinemaTicketbooking\obj\Debug\ConsoleCinemaTicketbooking.csproj.CoreCompileInputs.cache
